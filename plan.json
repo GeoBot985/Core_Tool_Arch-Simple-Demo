@@ -1,0 +1,7 @@
+{
+  "steps": [
+    {"action": "open_store"},
+    {"action": "process_delivery"},
+    {"action": "close_store"}
+  ]
+}
